@@ -47,6 +47,10 @@ nav,
     color: #fff;
 }
 
+.fa-circle-half-stroke{
+    font-size: 20px;
+}
+
 .dark-theme section {
     background-color: #242424
 }
